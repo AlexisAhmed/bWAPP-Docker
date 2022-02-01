@@ -16,6 +16,9 @@ This Docker image eliminates(automates;)) this tedious process and provides you 
 
 ## Pull the Docker image
 - This repo provides you with a prebuilt Docker image that you can pull and run in seconds.
+```
+docker pull hackersploit/bwapp-docker
+```
 
 ## Running the bWAPP container
 ```
