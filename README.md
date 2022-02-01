@@ -26,7 +26,7 @@ docker run -d -p 80:80 hackersploit/bwapp-docker
 ```
 
 ## Installing bWAPP
-- After running the image, navigate to http://127.0.0.1/install.php to complete the bWAPP setup process.
+- After running the bWAPP container, navigate to http://127.0.0.1/install.php to complete the bWAPP setup process.
 
 
 
